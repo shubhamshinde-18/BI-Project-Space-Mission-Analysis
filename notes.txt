@@ -1,0 +1,32 @@
+
+What you can find here:
+1) How many space missions done?
+2) How many of them were successful?
+3)Which companies were the top investors in these space missions?
+4)How much money was invested by these companies in space missions?
+5)What is the status of the rockets used in these missions as of August 2022?
+6)Which locations contributed majorly to these space missions?
+7)What Rocket types were used mostly?
+8) What is the YoY trend of space missions done?
+9)What is the YoY trend of Money Spent on these missions?
+
+
+
+>>Total Mission from 1957 to 2022 are 4630
+>>Total number of successfull mission 4162 which is 90 % success rate 
+>>
+------Insights------
+
+Hello Connections, I am gald to share my first Maven Analytics challenge.
+
+This dataset contains space missions history from 1957 - 2022 which tells about 
+
+price spent on missions, rocket launching sites, names of space agencies and each mission's name
+
+Tool used: Power BI
+
+Thank you maven anaytics for the challenge, i will be more excited for future challenges.
+
+
+
+
